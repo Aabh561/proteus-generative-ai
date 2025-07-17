@@ -33,3 +33,13 @@ proteus-generative-ai/
 yaml
 Copy
 Edit
+
+---
+
+## ⚙️ Setup Instructions
+
+> 🛑 You must have **Python 3.8 or above** installed.
+
+
+git clone https://github.com/yourusername/proteus-generative-ai.git
+cd proteus-generative-ai
