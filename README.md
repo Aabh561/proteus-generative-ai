@@ -1,6 +1,6 @@
 # 🧬 Proteus: Generative AI for Protein Design
 
-Proteus is a modular framework for training and using diffusion-based generative models to design novel protein structures. It leverages deep learning, structural bioinformatics, and molecular simulations to produce valid 3D protein configurations (.pdb files).
+Proteus is a modular framework for training and using diffusion-based generative models to design novel protein structures. It leverages deep learning, structural bioinformatics, and molecular simulations to produce valid 3D protein configurations (.pdb files)
 
 ---
 
@@ -43,3 +43,4 @@ Edit
 
 git clone https://github.com/yourusername/proteus-generative-ai.git
 cd proteus-generative-ai
+
